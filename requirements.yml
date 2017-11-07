@@ -1,0 +1,3 @@
+- src: https://github.com/gloppasglop/ansible-demo-apache
+  name: apache
+  version: master
